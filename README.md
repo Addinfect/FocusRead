@@ -1,5 +1,7 @@
 # SuperFastReader – RSVP Reader
 
+(Disclaimer: Fully VibeCoded with AI!)
+
 A Python application with Tkinter that implements Rapid Serial Visual Presentation (RSVP) reading, displaying words one by one with a highlighted fixation character to reduce eye movement and increase reading speed.
 
 ## Features
